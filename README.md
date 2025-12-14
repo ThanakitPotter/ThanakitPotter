@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanakit Intharapacha
 ==============================================================================================================================================
 
-Full-Stack Web Development
+Full-Stack Web Developer
 --------------------------
 
 Web developer enthusiasts who love code logic. I'm an expert in JavaScript technology (React, Node.js) and enjoy building PCs in my free time. Always ready to learn new technology!
